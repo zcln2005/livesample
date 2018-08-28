@@ -13,7 +13,6 @@
 		916B7CB6212D5AFD00FA6BA0 /* DYZBTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916B7CB5212D5AFD00FA6BA0 /* DYZBTests.swift */; };
 		916B7CC1212D5AFD00FA6BA0 /* DYZBUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916B7CC0212D5AFD00FA6BA0 /* DYZBUITests.swift */; };
 		91EBB2572135639C00FB45EE /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EBB2562135639C00FB45EE /* MainViewController.swift */; };
-		91EBB2592135640C00FB45EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91EBB2582135640C00FB45EE /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +45,6 @@
 		916B7CC0212D5AFD00FA6BA0 /* DYZBUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DYZBUITests.swift; sourceTree = "<group>"; };
 		916B7CC2212D5AFD00FA6BA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		91EBB2562135639C00FB45EE /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		91EBB2582135640C00FB45EE /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,7 +173,6 @@
 		91EBB2552135639C00FB45EE /* Main */ = {
 			isa = PBXGroup;
 			children = (
-				91EBB2582135640C00FB45EE /* Main.storyboard */,
 				91EBB2562135639C00FB45EE /* MainViewController.swift */,
 			);
 			path = Main;
@@ -290,7 +287,6 @@
 			files = (
 				916B7CAB212D5AFD00FA6BA0 /* LaunchScreen.storyboard in Resources */,
 				916B7CA8212D5AFD00FA6BA0 /* Assets.xcassets in Resources */,
-				91EBB2592135640C00FB45EE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
